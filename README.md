@@ -9,7 +9,7 @@
 * **姓名**：[王若宇]
 
 ## 硬體與環境狀態 (Environment Setup)
-* **PyTorch 執行環境**：[請填寫您安裝的狀態：Windows CUDA 12.1 / Mac Default / Windows CPU]
+* **PyTorch 執行環境**：[請填寫您安裝的狀態：Windows CUDA 12.6 / Mac Default / Windows CPU]
 
 ---
 
